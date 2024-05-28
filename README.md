@@ -62,6 +62,8 @@ We are developing a Startup Success Evaluator that not only evaluates success an
    - **Startups**: Enter their company details and market information.
 
 ### Use Flow Model
+<center><img src="https://github.com/AffanShaikhsurab/LeapStart-Ai/assets/51104750/2f936b28-138e-40d8-a133-c42b2a690fd0" alt="image" width="700" style="transform:rotate(90deg);"></center>
+
 
 #### Backend Processing
 
