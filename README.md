@@ -46,7 +46,7 @@ We are developing a Startup Success Evaluator that not only evaluates success an
 - **Machine Learning**: TensorFlow (for model creation and deployment)
 - **Natural Language Processing**: Fine-tuned LLM
 - **DataSet Used**: [Kaggle - Big Startup Success/Fail Dataset from Crunchbase](https://www.kaggle.com/datasets/yanmaksi/big-startup-secsees-fail-dataset-from-crunchbase/data)
-- **For more information about model please check here** : [Model Overview](https://github.com/AffanShaikhsurab/Needfit_Startup_Ai/edit/main/MODEL_OVERVIEW.md)
+- **For more information about model please check here** : [Model Overview](https://github.com/AffanShaikhsurab/Needfit_Startup_Ai/main/MODEL_OVERVIEW.md)
 
 ## File Structure
 
