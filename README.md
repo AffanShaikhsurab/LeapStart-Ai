@@ -1,8 +1,8 @@
-# LeapStart ai By Needfit
+# LeapStart.ai By Needfit
 
 ## Introduction
 
-Accurately valuing startups, especially in their early stages, is a significant challenge for investors due to the inherent uncertainty of a company's future potential. Traditional methods like discounted cash flow and the Berkus approach are often time-consuming and subjective. That is the reason we are introducing our **NeedFit-StartUp-Evaluator** that aims to leverage the power of supervised machine learning to develop a data-driven solution for predicting startup valuations in the Indian market.
+Welcome to India's first open-source startup accelerator, LeapStart.ai, brought to you by NeedFit. Accurately valuing startups, especially in their early stages, is a significant challenge for investors due to the inherent uncertainty of a company's future potential. Traditional methods like discounted cash flow and the Berkus approach are often time-consuming and subjective. That is the reason we are introducing our **NeedFit-StartUp-Evaluator** that aims to leverage the power of supervised machine learning to develop a data-driven solution for predicting startup valuations in the Indian market.
 
 ### Opportunity 📈
 
@@ -51,26 +51,6 @@ We are developing a Startup Success Evaluator that not only evaluates success an
 - **Monitoring**: Prometheus (for system monitoring and alerting)
 - **Visualization**: Grafana (for data visualization and monitoring dashboards)
 - **For more information about model please check here** : [Model Overview](https://github.com/AffanShaikhsurab/Needfit_Startup_Ai/blob/main/MODEL_OVERVIEW.md)
-
-## File Structure
-
-```plaintext
-startup_platform/
-├── backend/               # Python server-side code
-│   ├── api/               # API endpoints for user interaction
-│   ├── models/            # Machine learning models and data processing
-│   ├── utils/             # Utility functions
-│   └── ...                # Other backend related files
-├── frontend/              # Flutter code for mobile UI
-│   ├── screens/           # Screens for different functionalities
-│   ├── widgets/           # Reusable UI components
-│   └── ...                # Other frontend related files
-├── data/                  # Training and testing datasets
-│   └── ...
-├── config.py              # Configuration file for server and databases
-├── requirements.txt       # List of project dependencies
-└── README.md              # Project documentation (this file)
-```
 
 ## Workflow Explanation
 
