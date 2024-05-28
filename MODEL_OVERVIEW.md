@@ -5,7 +5,7 @@ Welcome to the Startup Success Predictor project! This repository contains a mac
 ## 📚 Overview
 
 
-<img src="https://github.com/AffanShaikhsurab/LeapStart-Ai/assets/51104750/d89d4160-3b43-4e98-a1bd-8f7bf794f2fd" alt="image" width="200" style="transform:rotate(90deg);">
+<img src="https://github.com/AffanShaikhsurab/LeapStart-Ai/assets/51104750/d89d4160-3b43-4e98-a1bd-8f7bf794f2fd" alt="image" width="400" style="transform:rotate(90deg);">
 
 The Startup Success Predictor is a two-stage machine learning model that predicts the success or failure of startups. The process involves:
 
