@@ -6,7 +6,7 @@ Welcome to India's first open-source startup accelerator, LeapStart.ai, brought 
 
 ### Opportunity 📈
 
-The Indian startup ecosystem is a powerhouse of innovation, contributing significantly to the economy. The Total Addressable Market (TAM) of Indian startups is vast, reflecting their crucial role in job creation, technological advancement, and economic growth. Startups are not just businesses; they are catalysts for change and economic development in India.
+The Indian startup ecosystem is a powerhouse of innovation, contributing significantly to the economy. The Total Addressable Market (TAM) of Indian startups is estimated to reach $1 trillion by 2025, reflecting their crucial role in job creation, technological advancement, and economic growth. In 2022, Indian startups raised a total of $24 billion in funding, demonstrating the growing confidence of investors in the sector. With an estimated 90,000+ startups currently operating across various industries, the ecosystem is buzzing with activity.  Startups are not just businesses; they are catalysts for change and economic development in India.
 
 ### Dilemma ⚖️
 
