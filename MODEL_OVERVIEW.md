@@ -144,8 +144,5 @@ Monitor the deployed model using Grafana and Prometheus. These tools provide rea
 
 We welcome contributions to enhance this project. Please fork the repository and submit pull requests for any improvements.
 
-## 📜 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 
