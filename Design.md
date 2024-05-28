@@ -70,4 +70,3 @@ Ensuring accessibility was a key consideration throughout the design process. To
 
 By prioritizing accessibility, the LeapStart.ai platform can truly cater to a diverse range of users, fostering an inclusive and equitable user experience.
 
-This design documentation outlines the thought process and rationale behind the LeapStart.ai user interface design. As the design team, we've carefully considered various aspects, from visual aesthetics and branding to usability and accessibility, to create a platform that empowers investors with a comprehensive and intuitive experience when evaluating startups across industries.
