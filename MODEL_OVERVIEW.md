@@ -148,10 +148,4 @@ We welcome contributions to enhance this project. Please fork the repository and
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
----
 
-Enjoy predicting the future of startups with data and machine learning! 🚀✨
-
----
-
-This documentation provides a comprehensive overview of the project, explaining the rationale behind each component and detailing the methodologies and technologies used.
