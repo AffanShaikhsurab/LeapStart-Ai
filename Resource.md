@@ -1,5 +1,9 @@
 # 🚀 Startup Resources
 
+We are thrilled to have you here! Our goal is to help you learn and grow as you embark on your startup journey. We've curated a comprehensive list of resources to support you every step of the way. 
+
+We believe that sharing and helping each other is the most important part of the startup ecosystem. If you have any resources that you think should be included, please feel free to add them. Together, we can create a valuable resource hub for all entrepreneurs!
+
 ## 📚 Books
 1. **Blue Ocean Strategy** by W. Chan Kim & Renée Mauborgne
    - Learn how to create uncontested market space and make competition irrelevant.
