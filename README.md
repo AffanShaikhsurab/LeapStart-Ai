@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to India's first open-source startup accelerator, LeapStart.ai, brought to you by NeedFit. Accurately valuing startups, especially in their early stages, is a significant challenge for investors due to the inherent uncertainty of a company's future potential. Traditional methods like discounted cash flow and the Berkus approach are often time-consuming and subjective. That is the reason we are introducing our **NeedFit-StartUp-Evaluator** that aims to leverage the power of supervised machine learning to develop a data-driven solution for predicting startup valuations in the Indian market.
+Welcome to India's first open-source startup accelerator, LeapStart.ai, brought to you by NeedFit. Accurately valuing startups, especially in their early stages, is a significant challenge for investors due to the inherent uncertainty of a company's future potential. Traditional methods like discounted cash flow and the Berkus approach are often time-consuming and subjective. That is the reason we are introducing our **LeapStart.ai by Needfit** that aims to leverage the power of supervised machine learning to develop a data-driven solution for predicting startup valuations in the Indian market.
 
 ### Opportunity 📈
 
@@ -92,4 +92,4 @@ We are developing a Startup Success Evaluator that not only evaluates success an
 
 ## Conclusion
 
-The **NeedFit-StartUp-Evaluator** is designed to address the critical needs of both investors and startups by providing a comprehensive tool for evaluating and supporting startup success. Through our data-driven approach, we aim to reduce the high failure rate of startups and foster a thriving entrepreneurial ecosystem in India. 🚀
+The **LeapStart.ai by Needfit** is designed to address the critical needs of both investors and startups by providing a comprehensive tool for evaluating and supporting startup success. Through our data-driven approach, we aim to reduce the high failure rate of startups and foster a thriving entrepreneurial ecosystem in India. 🚀
