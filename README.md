@@ -50,7 +50,7 @@ We are developing a Startup Success Evaluator that not only evaluates success an
 - **Orchestration**: Kubernetes (for container orchestration)
 - **Monitoring**: Prometheus (for system monitoring and alerting)
 - **Visualization**: Grafana (for data visualization and monitoring dashboards)
-- **For more information about model please check here** : [Model Overview](https://github.com/AffanShaikhsurab/Needfit_Startup_Ai/blob/main/MODEL_OVERVIEW.md)
+- **For more information about model please check here** : [Model Overview](https://github.com/AffanShaikhsurab/Needfit_Startup_Ai/blob/main/Model_Overview.md)
 
 ## Workflow Explanation
 
