@@ -1,0 +1,8 @@
+fastapi
+langchain
+langchain-google-genai
+pydantic
+uvicorn
+bing_image_urls
+fpdf
+pyhtml2pdf

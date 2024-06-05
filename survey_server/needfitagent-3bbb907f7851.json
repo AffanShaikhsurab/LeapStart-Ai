@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "needfitagent",
+  "private_key_id": "3bbb907f7851dce59a5401ab3382d94ec18e22a8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCwmOPgSgdwDhlQ\nRMod9Aho+XS+BArpplcPPaJ6+RJFG4yKh3ryWrU+PeydK6v9ZL1PfFLvrXe2fn8N\nf8K3/+/RyUCf6BBycXqToONpjqSZso7myp8JobgsFOpIcNupRHWlHSJnlB8IR/UK\nLn6eS2ajMm/0Ws8u0U/RKmT0X+Ou9YZNVkGxPWC1ilW9+LtO8W2m3TZaJlgpcABO\nDwI1aQs/Zy3k36Dugfno1KlRpbuuJtFgoGUtexfPxaUZNddNJRlCsn3uR8Tmm1TG\nkujlAv0JTHQPbks42cvJs0nPqQAFGq77pFnuHAmKI7OvAnCe0goAUxARU0zooimF\n1RLyvM1HAgMBAAECggEAUQ/tUjBJF7uxDPJ2oKc7EQyo9OwgIj5zqhBNvAsGwugx\nbAlie0r99TMxoLfCPA95Arp7y38h+4g3Q/gIZrO53t91pbE9k3rZnFh26yZKEi8v\nf2s085PjWYDERjpf6mP9aKxl9Yu9buyw41qSTpEn7POjBlSE0+XKsKW4L6Cwf8d7\nCfY9wHvKNxMAwz2wvEgCYRqVTrrc9jhix+eSX1Rt8Quobx/uxCGE79+gdZC/izJh\nJQAzX5JU8lR3D3z2JQRD93C2xFXvz3SzsqyyX8Siujp63B7H8EQWz6NMur/arQBh\nXb+Rbqk+CiZTR2oa3e3656cah28A5/3k5AlZj4Mz8QKBgQDU6Zu1u1f156/nh7do\nT60WFICZx/3mUUKGZWSzhvLUjSJRl0u/vOAZEjFu473y42KxyxaE4RzQO1mehJbA\n9JalgZZiTzRYXjNuToU2ziNJdmMy8isbyJbpVL+o8ZJUQlAyOwzYIS2uEwVOdi92\nl65kcBUfYT8IkiJRAjUNX0d3HwKBgQDUVeOve5SReUf2HqUpSEqowz4ITV0HgWIi\ngJiWbalSNoXllJ9tqhgwdhBP+XbVPgpVsdSoMfkyJ64tb8hJS1H7U4guMqWLV+vV\nsWXJ4PbYB+1wvzt5lXucNfpxDPScc/kKjvARHtUCWPLLzRqcFFszNkbBOWFNnRTP\nhRhhEOCs2QKBgGQE1hwaRSkEzRLEI7nB7Dq6KOuVEsZWmBzQluzrUTnejyerHm+V\nR+UfMc+49uuaPCvvjsWfhsyfhOs9uCAvBnH7nWzTbnCw2BJSmqvzTIpfLhypvOyR\nX6t/H4Y67ZXdjRT7vn3toCrtToncZVGd0dPm/1U9dsIM/Ef39HoyrzzbAoGBAMUB\n47y/hnrq8i+TA16oKk0myXlefkAmdWzZr7lyibUzzUvTd5CCTus3v67UIMN9So1z\n74EWzMUSN/MEUepfLfNn72Qdrab5rmCYtX53cc/CmzUO2RnX7dZj5rfZc2Nt3tVD\nBc58stn4uV0KMfQ6ltuPMlq46GTgp5xbOuFkjXERAoGAbu6NzCwhsllB88D7xnjw\nhj5MT7PrrHIWxfCERomuM/ZlD4Mxxlqji33X33x9wKxP17p3GhynWb2FhRDvlKFm\n1apnISUyv29jmEZ3EaW2gIoZyiwOwE9caqoBWXgvQL7epbiYtLk6T6TA8ajj1gVS\n//GNZLx0jCVC+tObmCLUrcg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "leapstart@needfitagent.iam.gserviceaccount.com",
+  "client_id": "105721696151563094873",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/leapstart%40needfitagent.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
